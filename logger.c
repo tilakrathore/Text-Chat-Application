@@ -1,7 +1,5 @@
 /**
- * @logger
- * @author  Swetank Kumar Saha <swetankk@buffalo.edu>
- * @version 1.0
+
  *
  * @section LICENSE
  *
